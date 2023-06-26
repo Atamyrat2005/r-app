@@ -35,6 +35,10 @@
   color: blueviolet;
 }
 
+.center {
+   text-align: center;
+}
+
 .content {
   max-width: 600px;
   margin: 40px auto;
@@ -50,11 +54,25 @@
 }
 
 .blog-preview:hover {
-  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 3px 5px rgba(159, 159, 159, 0.5);
 }
 
 .blog-preview h2 {
   font-size: 20px;
   color: blueviolet;
+  margin-bottom: 8px;
+}
+
+.blog-preview p {
+  font-size: 14px;
+  color: gainsboro;
+  margin-bottom: 5px;
+}
+
+.blog-preview h4 {
+  font-size: 16px;
+  display: flex;
+  justify-content: end;
+  text-decoration: underline;
   margin-bottom: 8px;
 }
