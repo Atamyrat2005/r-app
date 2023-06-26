@@ -1,16 +1,4 @@
-// second method
-
 const BlogList = ({blogs, title}) => {
-
-    // second method end
-
-    // first method start
-
-// const BlogList = (props) => {
-    // const blogs = props.blogs;
-    // const title = props.title;
-
-    // first method end
 
     return (
         <div className="blog-list">
