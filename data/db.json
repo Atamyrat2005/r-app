@@ -1,22 +1,22 @@
 {
-    "blogs": [
-        {
-            "title": "My First Blog",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ea necessitatibus iste beatae nesciunt? Distinctio quaerat quae accusantium molestias esse id? Similique animi reprehenderit facere, at quae recusandae cum odit?",
-            "author": "Myrat",
-            "id": 1
-        },
-        {
-            "title": "My First Blog",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ea necessitatibus iste beatae nesciunt? Distinctio quaerat quae accusantium molestias esse id? Similique animi reprehenderit facere, at quae recusandae cum odit?",
-            "author": "Meret",
-            "id": 2
-        },
-        {
-            "title": "My Second Blog",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ea necessitatibus iste beatae nesciunt? Distinctio quaerat quae accusantium molestias esse id? Similique animi reprehenderit facere, at quae recusandae cum odit?",
-            "author": "Myrat",
-            "id": 3
-        }
-    ]
+  "blogs": [
+    {
+      "title": "About My History",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem dolorum nesciunt, ipsum aperiam culpa nihil minima, deleniti iste illum officiis officia accusantium laudantium ea ratione quam dolor ab voluptate eveniet tempora dolores reprehenderit iusto dolorem. Omnis quas ad aperiam nam corporis magni dolorem fugiat nulla totam? Harum porro dicta laudantium eligendi? Possimus nesciunt temporibus eaque, expedita nam voluptas quam dolore ducimus mollitia ea pariatur commodi! Reprehenderit minima provident labore quisquam consequatur. Rem molestias repellat quo ratione inventore, architecto voluptatum fugiat odit quia, natus illo atque quam, voluptatem assumenda ex repellendus? Temporibus magni optio fugiat inventore voluptas maiores iusto nostrum eos beatae rerum laborum aliquid esse assumenda distinctio tempore repudiandae, corrupti omnis eum earum architecto odio repellat. Doloremque quod fugit ipsa iusto explicabo eum eveniet possimus excepturi illo molestiae, voluptate consequuntur iure ab eos, harum vitae rerum officia perferendis sint vero ipsam aliquid obcaecati distinctio veniam. Animi obcaecati, sunt libero necessitatibus nulla, magnam quibusdam dolor similique ducimus sequi tempore distinctio nisi molestiae minima accusantium? Reprehenderit architecto odio laborum eaque! Nobis quidem, perspiciatis dicta quibusdam veritatis fugit atque, aliquam excepturi dolorum debitis maxime nihil optio exercitationem sed quo modi qui autem quisquam maiores expedita ipsam? Earum blanditiis quisquam necessitatibus laborum voluptas nisi?",
+      "author": "Myrat",
+      "id": 1
+    },
+    {
+      "title": "My Blog",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem dolorum nesciunt, ipsum aperiam culpa nihil minima, deleniti iste illum officiis officia accusantium laudantium ea ratione quam dolor ab voluptate eveniet tempora dolores reprehenderit iusto dolorem. Omnis quas ad aperiam nam corporis magni dolorem fugiat nulla totam? Harum porro dicta laudantium eligendi? Possimus nesciunt temporibus eaque, expedita nam voluptas quam dolore ducimus mollitia ea pariatur commodi! Reprehenderit minima provident labore quisquam consequatur. Rem molestias repellat quo ratione inventore, architecto voluptatum fugiat odit quia, natus illo atque quam, voluptatem assumenda ex repellendus? Temporibus magni optio fugiat inventore voluptas maiores iusto nostrum eos beatae rerum laborum aliquid esse assumenda distinctio tempore repudiandae, corrupti omnis eum earum architecto odio repellat. Doloremque quod fugit ipsa iusto explicabo eum eveniet possimus excepturi illo molestiae, voluptate consequuntur iure ab eos, harum vitae rerum officia perferendis sint vero ipsam aliquid obcaecati distinctio veniam. Animi obcaecati, sunt libero necessitatibus nulla, magnam quibusdam dolor similique ducimus sequi tempore distinctio nisi molestiae minima accusantium? Reprehenderit architecto odio laborum eaque! Nobis quidem, perspiciatis dicta quibusdam veritatis fugit atque, aliquam excepturi dolorum debitis maxime nihil optio exercitationem sed quo modi qui autem quisquam maiores expedita ipsam? Earum blanditiis quisquam necessitatibus laborum voluptas nisi?",
+      "author": "Meret",
+      "id": 2
+    },
+    {
+      "title": "Dubai Travel",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem dolorum nesciunt, ipsum aperiam culpa nihil minima, deleniti iste illum officiis officia accusantium laudantium ea ratione quam dolor ab voluptate eveniet tempora dolores reprehenderit iusto dolorem. Omnis quas ad aperiam nam corporis magni dolorem fugiat nulla totam? Harum porro dicta laudantium eligendi? Possimus nesciunt temporibus eaque, expedita nam voluptas quam dolore ducimus mollitia ea pariatur commodi! Reprehenderit minima provident labore quisquam consequatur. Rem molestias repellat quo ratione inventore, architecto voluptatum fugiat odit quia, natus illo atque quam, voluptatem assumenda ex repellendus? Temporibus magni optio fugiat inventore voluptas maiores iusto nostrum eos beatae rerum laborum aliquid esse assumenda distinctio tempore repudiandae, corrupti omnis eum earum architecto odio repellat. Doloremque quod fugit ipsa iusto explicabo eum eveniet possimus excepturi illo molestiae, voluptate consequuntur iure ab eos, harum vitae rerum officia perferendis sint vero ipsam aliquid obcaecati distinctio veniam. Animi obcaecati, sunt libero necessitatibus nulla, magnam quibusdam dolor similique ducimus sequi tempore distinctio nisi molestiae minima accusantium? Reprehenderit architecto odio laborum eaque! Nobis quidem, perspiciatis dicta quibusdam veritatis fugit atque, aliquam excepturi dolorum debitis maxime nihil optio exercitationem sed quo modi qui autem quisquam maiores expedita ipsam? Earum blanditiis quisquam necessitatibus laborum voluptas nisi?",
+      "author": "Atamyrat",
+      "id": 3
+    }
+  ]
 }

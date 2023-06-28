@@ -36,13 +36,25 @@
 }
 
 .center {
-   text-align: center;
+  text-align: center;
 }
 
 .content {
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
+}
+
+.create {
+  color: "white";
+  background-color: 'blueviolet';
+  border-radius: '8px';
+}
+
+.between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* blog previews - list */
@@ -57,22 +69,98 @@
   box-shadow: 1px 3px 5px rgba(159, 159, 159, 0.5);
 }
 
-.blog-preview h2 {
+.blog-preview h2,
+article h2 {
   font-size: 20px;
   color: blueviolet;
   margin-bottom: 8px;
 }
 
-.blog-preview p {
+article p {
   font-size: 14px;
   color: gainsboro;
   margin-bottom: 5px;
 }
 
-.blog-preview h4 {
+.blog-preview h4,
+article h4 {
   font-size: 16px;
   display: flex;
+  color: whitesmoke;
   justify-content: end;
   text-decoration: underline;
   margin-bottom: 8px;
+}
+
+.blog-preview a {
+  text-decoration: none;
+}
+
+/* creatte new blog form */
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create label {
+  text-align: left;
+  display: block;
+}
+
+.create h2 {
+  font-size: 20px;
+  color: blueviolet;
+  margin-bottom: 30px;
+}
+
+.create input,
+.create textarea,
+.create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  resize: vertical;
+  display: block;
+}
+
+.create button {
+  background: blueviolet;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.between button {
+  background: red;
+  color: #fff;
+  border: 0;
+  padding: 6px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.not-found h2 {
+  font-size: 40px;
+  color: blueviolet;
+  margin-bottom: 10px;
+}
+
+.not-found p {
+  font-size: 17.5px;
+  color: whitesmoke;
+  margin-bottom: 10px;
+}
+.not-found .link {
+  font-size: 17.5px;
+  margin-bottom: 10px;
+}
+
+.not-found .link:hover {
+  color: blueviolet;
 }
